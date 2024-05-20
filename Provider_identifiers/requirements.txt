@@ -1,0 +1,4 @@
+#Chapter 4 pip requirements
+SQLAlchemy>=2.0.0,<2.1.0
+pydantic>=2.4.0,<2.5.0
+fastapi>=0.110.0,<0.111.0
